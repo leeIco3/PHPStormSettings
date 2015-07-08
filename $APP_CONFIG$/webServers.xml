@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="431bf96e-b439-421b-9ceb-7a565631372c" name="PlymouthIAS" url="http://plymouthias.org.uk">
+        <fileTransfer host="plymouthias.org.uk" port="21" password="dfdcdfe0df9adfc4dfc4df9ddfd4df99" username="plymiasftp">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d45a4900-446c-4d3d-823f-9316707b611a" name="Mens Gift Company" url="http://mensgiftcompany.co.uk">
+        <fileTransfer host="mensgiftcompany.co.uk" port="21" password="df98df99dfc7dfcfdfc4dfd9df9ddf93" username="mensgiftco">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
