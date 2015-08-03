@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="06b546a9-e888-4328-b979-74227c34322c" name="woodshopdirect" url="http://woodshopdirect.co.uk">
+        <fileTransfer host="woodshopdirect.co.uk" port="21" password="df98df99dfdddfc5dfc5dfcedf9ddf93" username="woodshopdi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
