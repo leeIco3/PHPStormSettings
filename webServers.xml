@@ -29,6 +29,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ab2849da-d6db-4392-b8cd-12704f5c73bf" name="Blokes Bag Local" url="http://bbdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
