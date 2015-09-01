@@ -32,6 +32,13 @@
       <webServer id="ab2849da-d6db-4392-b8cd-12704f5c73bf" name="Blokes Bag Local" url="http://bbdev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="8b7795bf-3127-46c7-9a40-469e97d42f5a" name="blokesbag.co.uk" url="http://blokesbags.co.uk">
+        <fileTransfer host="blokesbags.co.uk" port="21" password="df98df99dfc8dfc6dfc5dfc1df9ddf93" username="blokesbags">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
