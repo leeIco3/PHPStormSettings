@@ -39,6 +39,9 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="cba6d582-4109-4444-8a3f-f1ff602f93ce" name="JieDing" url="http://jddev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
