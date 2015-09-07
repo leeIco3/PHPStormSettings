@@ -42,6 +42,9 @@
       <webServer id="cba6d582-4109-4444-8a3f-f1ff602f93ce" name="JieDing" url="http://jddev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="391ddaca-be96-4185-8a02-876b13301533" name="SuccessionGroup" url="http://sgdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
