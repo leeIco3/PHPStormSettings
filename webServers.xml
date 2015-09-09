@@ -45,6 +45,12 @@
       <webServer id="391ddaca-be96-4185-8a02-876b13301533" name="SuccessionGroup" url="http://sgdev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="d9f06c33-5308-407e-a00e-7a76851d5155" name="Luminati" url="http://lidev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b98d94cb-9682-4a49-9dcb-88653ebdcc4a" name="LuminatiLifestyles" url="http://lilsdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
