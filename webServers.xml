@@ -51,6 +51,9 @@
       <webServer id="b98d94cb-9682-4a49-9dcb-88653ebdcc4a" name="LuminatiLifestyles" url="http://lilsdev.localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
+      <webServer id="6cf0a508-1e75-4ab2-8cdd-a538817234ea" name="Birdkids" url="http://bkdev.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
